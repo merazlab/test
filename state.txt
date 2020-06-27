@@ -1,3 +1,5 @@
 State name
 Bihar
 UP
+Punjab
+Delhi
